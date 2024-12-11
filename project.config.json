@@ -1,0 +1,9 @@
+{
+    "description": "Project Config File",
+    "compileType": "miniprogram",
+    "appid": "1733936603383",
+    "projectname": "smartcares",
+    "setting":{
+        "es5":true
+    }
+}

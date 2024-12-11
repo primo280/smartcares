@@ -1,0 +1,1206 @@
+.element-my-doctors-screen {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-my-doctors-screen .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 375px;
+    height: 812px;
+  }
+  
+  .element-my-doctors-screen .overlap {
+    position: relative;
+    width: 544px;
+    height: 905px;
+    top: -33px;
+    left: -99px;
+  }
+  
+  .element-my-doctors-screen .bg {
+    position: absolute;
+    width: 544px;
+    height: 905px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-my-doctors-screen .ellipse {
+    position: absolute;
+    width: 257px;
+    height: 257px;
+    top: 648px;
+    left: 287px;
+    background-color: #0ebe7e4c;
+    border-radius: 128.5px;
+    filter: blur(121px);
+  }
+  
+  .element-my-doctors-screen .div {
+    position: absolute;
+    width: 216px;
+    height: 216px;
+    top: 0;
+    left: 0;
+    background-color: #60cdffb8;
+    border-radius: 108px;
+    filter: blur(269px);
+  }
+  
+  .element-my-doctors-screen .all-doctors {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 211px;
+    left: 119px;
+  }
+  
+  .element-my-doctors-screen .overlap-group {
+    position: relative;
+    height: 71px;
+    border-radius: 8px;
+  }
+  
+  .element-my-doctors-screen .doctor {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-my-doctors-screen .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 114px;
+    height: 34px;
+    top: 17px;
+    left: 8px;
+  }
+  
+  .element-my-doctors-screen .div-wrapper {
+    position: relative;
+    width: 112px;
+    height: 34px;
+    background-color: #0ebe7f;
+    border-radius: 4px;
+  }
+  
+  .element-my-doctors-screen .text-wrapper {
+    position: absolute;
+    width: 93px;
+    top: 10px;
+    left: 11px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element-my-doctors-screen .text {
+    position: absolute;
+    width: 192px;
+    height: 37px;
+    top: 22px;
+    left: 126px;
+  }
+  
+  .element-my-doctors-screen .text-2 {
+    position: absolute;
+    width: 161px;
+    height: 37px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-my-doctors-screen .text-wrapper-2 {
+    position: absolute;
+    top: 22px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #0ebe7f;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-my-doctors-screen .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #333333;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-my-doctors-screen .like {
+    position: absolute;
+    width: 19px;
+    height: 17px;
+    top: 0;
+    left: 173px;
+  }
+  
+  .element-my-doctors-screen .doctor-2 {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 211px;
+    left: 119px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-my-doctors-screen .text-3 {
+    position: absolute;
+    width: 157px;
+    height: 37px;
+    top: 22px;
+    left: 126px;
+  }
+  
+  .element-my-doctors-screen .text-4 {
+    position: relative;
+    width: 161px;
+    height: 37px;
+  }
+  
+  .element-my-doctors-screen .doctor-wrapper {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 298px;
+    left: 118px;
+  }
+  
+  .element-my-doctors-screen .doctor-3 {
+    position: relative;
+    height: 71px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-my-doctors-screen .text-5 {
+    position: absolute;
+    width: 128px;
+    height: 37px;
+    top: 22px;
+    left: 126px;
+  }
+  
+  .element-my-doctors-screen .text-6 {
+    position: relative;
+    width: 132px;
+    height: 37px;
+  }
+  
+  .element-my-doctors-screen .doctor-4 {
+    position: absolute;
+    width: 343px;
+    height: 255px;
+    top: 480px;
+    left: 117px;
+  }
+  
+  .element-my-doctors-screen .doctor-5 {
+    height: 172px;
+    top: 83px;
+    left: 8px;
+    position: absolute;
+    width: 335px;
+  }
+  
+  .element-my-doctors-screen .doctor-6 {
+    height: 71px;
+    top: 101px;
+    left: 0;
+    position: absolute;
+    width: 335px;
+  }
+  
+  .element-my-doctors-screen .doctor-7 {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 385px;
+    left: 117px;
+  }
+  
+  .element-my-doctors-screen .text-7 {
+    position: absolute;
+    width: 121px;
+    height: 37px;
+    top: 22px;
+    left: 126px;
+  }
+  
+  .element-my-doctors-screen .text-8 {
+    position: relative;
+    width: 125px;
+    height: 37px;
+  }
+  
+  .element-my-doctors-screen .search {
+    position: absolute;
+    width: 337px;
+    height: 54px;
+    top: 133px;
+    left: 119px;
+  }
+  
+  .element-my-doctors-screen .overlap-2 {
+    position: relative;
+    width: 335px;
+    height: 54px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 20px #0000000d;
+  }
+  
+  .element-my-doctors-screen .group {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    top: 22px;
+    left: 304px;
+  }
+  
+  .element-my-doctors-screen .input {
+    position: absolute;
+    top: 18px;
+    left: 45px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: var(--x-677294);
+    font-size: 15px;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .element-my-doctors-screen .img {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    top: 21px;
+    left: 20px;
+  }
+  
+  .element-my-doctors-screen .headline {
+    position: absolute;
+    width: 202px;
+    height: 30px;
+    top: 69px;
+    left: 119px;
+  }
+  
+  .element-my-doctors-screen .group-wrapper {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .element-my-doctors-screen .group-2 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 9px;
+    left: 12px;
+  }
+  
+  .element-my-doctors-screen .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 49px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #333333;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-my-doctors-screen .stats-ber {
+    position: absolute;
+    width: 349px;
+    height: 18px;
+    top: 44px;
+    left: 105px;
+  }
+  
+  .element-my-doctors-screen .group-3 {
+    position: relative;
+    width: 351px;
+    height: 18px;
+  }
+  
+  .element-my-doctors-screen .time {
+    position: absolute;
+    width: 54px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #222222;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+  }
+  
+  .element-my-doctors-screen .battery {
+    position: absolute;
+    width: 23px;
+    height: 11px;
+    top: 3px;
+    left: 326px;
+  }
+  
+  .element-my-doctors-screen .capacity-wrapper {
+    position: absolute;
+    width: 21px;
+    height: 11px;
+    top: 0;
+    left: 0;
+    border-radius: 2.67px;
+    border: 1px solid;
+    border-color: #222222;
+  }
+  
+  .element-my-doctors-screen .capacity {
+    position: relative;
+    width: 17px;
+    height: 7px;
+    top: 1px;
+    left: 1px;
+    background-color: #222222;
+    border-radius: 1.33px;
+  }
+  
+  .element-my-doctors-screen .cap {
+    position: absolute;
+    width: 1px;
+    height: 4px;
+    top: 3px;
+    left: 22px;
+  }
+  
+  .element-my-doctors-screen .wifi {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 3px;
+    left: 307px;
+  }
+  
+  .element-my-doctors-screen .cellular-connection {
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    top: 3px;
+    left: 286px;
+  }
+  
+  .element-my-doctors-screen .doctor-8 {
+    position: absolute;
+    width: 335px;
+    height: 71px;
+    top: 759px;
+    left: 125px;
+  }
+  
+
+  .element-medical-records {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-medical-records .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 375px;
+    height: 812px;
+  }
+  
+  .element-medical-records .overlap {
+    position: relative;
+    width: 544px;
+    height: 905px;
+    top: -33px;
+    left: -99px;
+  }
+  
+  .element-medical-records .bg {
+    position: absolute;
+    width: 544px;
+    height: 905px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-medical-records .ellipse {
+    position: absolute;
+    width: 257px;
+    height: 257px;
+    top: 648px;
+    left: 287px;
+    background-color: #0ebe7e4c;
+    border-radius: 128.5px;
+    filter: blur(121px);
+  }
+  
+  .element-medical-records .div {
+    position: absolute;
+    width: 216px;
+    height: 216px;
+    top: 0;
+    left: 0;
+    background-color: #60cdffb8;
+    border-radius: 108px;
+    filter: blur(269px);
+  }
+  
+  .element-medical-records .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 272px;
+    height: 54px;
+    top: 565px;
+    left: 152px;
+  }
+  
+  .element-medical-records .overlap-group {
+    position: relative;
+    width: 270px;
+    height: 54px;
+    background-color: #0ebe7f;
+    border-radius: 6px;
+  }
+  
+  .element-medical-records .text-wrapper {
+    position: absolute;
+    top: 17px;
+    left: 111px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-medical-records .text {
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    top: 458px;
+    left: 196px;
+  }
+  
+  .element-medical-records .creer-un-dossier {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 700;
+    color: #222222;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-medical-records .illustration {
+    position: absolute;
+    width: 214px;
+    height: 214px;
+    top: 193px;
+    left: 185px;
+    background-color: #c6efe5c2;
+    border-radius: 107px;
+  }
+  
+  .element-medical-records .group {
+    position: absolute;
+    width: 107px;
+    height: 118px;
+    top: 48px;
+    left: 61px;
+  }
+  
+  .element-medical-records .headline {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 69px;
+    left: 119px;
+  }
+  
+  .element-medical-records .group-wrapper {
+    position: relative;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .element-medical-records .img {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 9px;
+    left: 12px;
+  }
+  
+  .element-medical-records .stats-ber {
+    position: absolute;
+    width: 349px;
+    height: 18px;
+    top: 44px;
+    left: 105px;
+  }
+  
+  .element-medical-records .group-2 {
+    position: relative;
+    width: 351px;
+    height: 18px;
+  }
+  
+  .element-medical-records .time {
+    position: absolute;
+    width: 54px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #222222;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+  }
+  
+  .element-medical-records .battery {
+    position: absolute;
+    width: 23px;
+    height: 11px;
+    top: 3px;
+    left: 326px;
+  }
+  
+  .element-medical-records .capacity-wrapper {
+    position: absolute;
+    width: 21px;
+    height: 11px;
+    top: 0;
+    left: 0;
+    border-radius: 2.67px;
+    border: 1px solid;
+    border-color: #222222;
+  }
+  
+  .element-medical-records .capacity {
+    position: relative;
+    width: 17px;
+    height: 7px;
+    top: 1px;
+    left: 1px;
+    background-color: #222222;
+    border-radius: 1.33px;
+  }
+  
+  .element-medical-records .cap {
+    position: absolute;
+    width: 1px;
+    height: 4px;
+    top: 3px;
+    left: 22px;
+  }
+  
+  .element-medical-records .wifi {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 3px;
+    left: 307px;
+  }
+  
+  .element-medical-records .cellular-connection {
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    top: 3px;
+    left: 286px;
+  }
+  
+  .element-medicine-orders {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element-medicine-orders .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 375px;
+    height: 812px;
+  }
+  
+  .element-medicine-orders .overlap {
+    position: relative;
+    width: 544px;
+    height: 905px;
+    top: -33px;
+    left: -99px;
+  }
+  
+  .element-medicine-orders .bg {
+    position: absolute;
+    width: 544px;
+    height: 905px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-medicine-orders .ellipse {
+    position: absolute;
+    width: 257px;
+    height: 257px;
+    top: 648px;
+    left: 287px;
+    background-color: #0ebe7e4c;
+    border-radius: 128.5px;
+    filter: blur(121px);
+  }
+  
+  .element-medicine-orders .div {
+    position: absolute;
+    width: 216px;
+    height: 216px;
+    top: 0;
+    left: 0;
+    background-color: #60cdffb8;
+    border-radius: 108px;
+    filter: blur(269px);
+  }
+  
+  .element-medicine-orders .rectangle {
+    position: absolute;
+    width: 160px;
+    height: 5px;
+    top: 830px;
+    left: 207px;
+    background-color: #222222;
+    border-radius: 10px;
+  }
+  
+  .element-medicine-orders .tabs {
+    position: absolute;
+    width: 335px;
+    height: 510px;
+    top: 115px;
+    left: 108px;
+  }
+  
+  .element-medicine-orders .payments-refunds {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 350px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-medicine-orders .overlap-group {
+    position: relative;
+    width: 111px;
+    height: 106px;
+    top: 24px;
+    left: 42px;
+  }
+  
+  .element-medicine-orders .group {
+    position: absolute;
+    width: 78px;
+    height: 106px;
+    top: 0;
+    left: 0;
+  }
+  
+  .element-medicine-orders .text-wrapper {
+    position: absolute;
+    top: 89px;
+    left: 10px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #677294;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+  }
+  
+  .element-medicine-orders .group-wrapper {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 0;
+    left: 0;
+    background-color: #c6efe5c2;
+    border-radius: 38px;
+  }
+  
+  .element-medicine-orders .img {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    top: 29px;
+    left: 25px;
+  }
+  
+  .element-medicine-orders .vector {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 20px;
+    left: 75px;
+  }
+  
+  .element-medicine-orders .vector-2 {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 28px;
+    left: 82px;
+  }
+  
+  .element-medicine-orders .order-delivery {
+    left: 175px;
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 175px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-medicine-orders .text-wrapper-2 {
+    position: absolute;
+    top: 89px;
+    left: 13px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #677294;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+  }
+  
+  .element-medicine-orders .group-2 {
+    position: absolute;
+    width: 24px;
+    height: 22px;
+    top: 27px;
+    left: 26px;
+  }
+  
+  .element-medicine-orders .order-status {
+    left: 0;
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 175px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-medicine-orders .group-3 {
+    position: absolute;
+    width: 78px;
+    height: 106px;
+    top: 24px;
+    left: 42px;
+  }
+  
+  .element-medicine-orders .group-4 {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 24px;
+    left: 24px;
+  }
+  
+  .element-medicine-orders .vector-wrapper {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 47px;
+    left: 124px;
+    background-image: url(https://c.animaapp.com/yqr3QD8y/img/vector-8.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-medicine-orders .vector-3 {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 8px;
+    left: 7px;
+  }
+  
+  .element-medicine-orders .prescription {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 0;
+    left: 175px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-medicine-orders .group-5 {
+    position: absolute;
+    width: 83px;
+    height: 108px;
+    top: 24px;
+    left: 25px;
+  }
+  
+  .element-medicine-orders .text-wrapper-3 {
+    position: absolute;
+    top: 86px;
+    left: 2px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #677294;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: 21.8px;
+    white-space: nowrap;
+  }
+  
+  .element-medicine-orders .group-6 {
+    position: absolute;
+    width: 23px;
+    height: 30px;
+    top: 23px;
+    left: 27px;
+  }
+  
+  .element-medicine-orders .img-wrapper {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 44px;
+    left: 117px;
+    background-image: url(https://c.animaapp.com/yqr3QD8y/img/vector-8.svg);
+    background-size: 100% 100%;
+  }
+  
+  .element-medicine-orders .overlap-2 {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+  }
+  
+  .element-medicine-orders .medicine-order {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .element-medicine-orders .group-7 {
+    position: relative;
+    width: 111px;
+    height: 130px;
+    top: 24px;
+    left: 26px;
+  }
+  
+  .element-medicine-orders .maladies-et-sujet-de {
+    position: absolute;
+    top: 86px;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #677294;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: 21.8px;
+  }
+  
+  .element-medicine-orders .group-8 {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 0;
+    left: 6px;
+    background-color: #c6efe5c2;
+    border-radius: 38px;
+  }
+  
+  .element-medicine-orders .group-9 {
+    position: absolute;
+    width: 24px;
+    height: 28px;
+    top: 24px;
+    left: 26px;
+  }
+  
+  .element-medicine-orders .vector-4 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 44px;
+    left: 117px;
+  }
+  
+  .element-medicine-orders .vector-5 {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 52px;
+    left: 124px;
+  }
+  
+  .element-medicine-orders .headline {
+    position: absolute;
+    width: 205px;
+    height: 30px;
+    top: 69px;
+    left: 119px;
+  }
+  
+  .element-medicine-orders .group-10 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .element-medicine-orders .group-11 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 9px;
+    left: 12px;
+  }
+  
+  .element-medicine-orders .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 49px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #333333;
+    font-size: 18px;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .element-medicine-orders .stats-ber {
+    position: absolute;
+    width: 349px;
+    height: 18px;
+    top: 44px;
+    left: 105px;
+  }
+  
+  .element-medicine-orders .group-12 {
+    position: relative;
+    width: 351px;
+    height: 18px;
+  }
+  
+  .element-medicine-orders .time {
+    position: absolute;
+    width: 54px;
+    top: 0;
+    left: 0;
+    font-family: "Rubik", Helvetica;
+    font-weight: 500;
+    color: #222222;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+  }
+  
+  .element-medicine-orders .battery {
+    position: absolute;
+    width: 23px;
+    height: 11px;
+    top: 3px;
+    left: 326px;
+  }
+  
+  .element-medicine-orders .capacity-wrapper {
+    position: absolute;
+    width: 21px;
+    height: 11px;
+    top: 0;
+    left: 0;
+    border-radius: 2.67px;
+    border: 1px solid;
+    border-color: #222222;
+  }
+  
+  .element-medicine-orders .capacity {
+    position: relative;
+    width: 17px;
+    height: 7px;
+    top: 1px;
+    left: 1px;
+    background-color: #222222;
+    border-radius: 1.33px;
+  }
+  
+  .element-medicine-orders .cap {
+    position: absolute;
+    width: 1px;
+    height: 4px;
+    top: 3px;
+    left: 22px;
+  }
+  
+  .element-medicine-orders .wifi {
+    position: absolute;
+    width: 14px;
+    height: 10px;
+    top: 3px;
+    left: 307px;
+  }
+  
+  .element-medicine-orders .cellular-connection {
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    top: 3px;
+    left: 286px;
+  }
+  
+  .element-medicine-orders .menu {
+    position: absolute;
+    width: 375px;
+    height: 74px;
+    top: 771px;
+    left: 99px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 180px #00000040;
+  }
+  
+  .element-medicine-orders .group-13 {
+    position: absolute;
+    width: 119px;
+    height: 21px;
+    top: 24px;
+    left: 20px;
+  }
+  
+  .element-medicine-orders .tab-bar-item {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 26px 8px;
+    position: absolute;
+    top: 15px;
+    left: 281px;
+  }
+  
+  .element-medicine-orders .icon-bell {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .element-medicine-orders .badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 2px 6px;
+    position: absolute;
+    top: 4px;
+    left: 38px;
+    background-color: #fe2c55;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: #ffffff;
+  }
+  
+  .element-medicine-orders .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 12px;
+    white-space: nowrap;
+  }
+  
+  .element-medicine-orders .medical {
+    position: absolute;
+    width: 43px;
+    height: 33px;
+    top: 788px;
+    left: 302px;
+    object-fit: cover;
+  }
+  
